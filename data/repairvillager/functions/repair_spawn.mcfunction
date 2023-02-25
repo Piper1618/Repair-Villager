@@ -1,0 +1,1 @@
+summon villager ~ ~ ~ {Tags:["RepairVillager"], VillagerData:{profession:toolsmith,level:5,type:taiga},PersistenceRequired:1,CustomName:"\"Repairs\"",Offers:{Recipes:[{buy:{id:anvil,Count:1b},sell:{id:"minecraft:paper",Count:1b, tag:{display:{Name:"\"Repairs\"",Lore:["\"Throw me any repairable item and I'll repair\"","\"it in exchange for a small fee.\""]}}},maxUses:0,}]}}
